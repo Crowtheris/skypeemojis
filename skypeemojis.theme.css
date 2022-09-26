@@ -1,0 +1,12 @@
+/**
+ * @name skypeemojis
+ * @description replaces discord emojis with skype ones, modification of devilbro's theme
+ * @author crowtheris
+ * @version 0.1
+ * @website https://crowtheris.carrd.co/
+ * @source https://github.com/Crowtheris/skypeemojis/
+ * @updateUrl https://github.com/Crowtheris/skypeemojis/skypeemojis.theme.css
+ */
+
+
+@import url(https://github.com/Crowtheris/skypeemojis/base/skype.css);
